@@ -28,6 +28,9 @@ Execute the program using runserver command.
 <html>
    <title>title</title>
        <body>
+        <h3>Name:Priyadsarshini</h3>
+            <h3>Reference Number:23012593</h3>
+
         <center>
             <img src="/static/logo.png" height="100" width="540" >
           <table border="6" cellspacing="4" cellpadding="4">
@@ -144,8 +147,9 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Screenshot 2023-11-09 113355](https://github.com/EPriyadharshini/slot/assets/144870831/3733bfc7-9189-4555-997f-90e984f3984a)
-![Screenshot 2023-11-09 113417](https://github.com/EPriyadharshini/slot/assets/144870831/6325803c-8be9-4fcb-a017-99b8fd6de650)
+![Screenshot 2023-11-09 123852](https://github.com/EPriyadharshini/slot/assets/144870831/faf34052-35de-4b4b-8ae3-8406c1027338)
+
+![Screenshot 2023-11-09 123908](https://github.com/EPriyadharshini/slot/assets/144870831/75bddccd-cdde-48a9-a44c-3e681db37b68)
 
 
 
